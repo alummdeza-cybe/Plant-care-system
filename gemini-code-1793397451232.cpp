@@ -6,8 +6,8 @@
 #include <ESP32Servo.h>
 
 // --- CONFIGURACIÓN RED Y GITHUB ---
-const char* WIFI_SSID = "TU_RED_WIFI";
-const char* WIFI_PASS = "TU_CONTRASEÑA";
+const char* WIFI_SSID = "Plant care";
+const char* WIFI_PASS = "Plant care";
 
 const char* GIST_ID = "TU_GIST_ID_AQUI";
 const char* GITHUB_TOKEN = "github_pat_TU_TOKEN_AQUI";
