@@ -1,4 +1,4 @@
- PLANT CARE
+ #PLANT CARE
 
 Invernadero inteligente | Proyecto STEAM 2026
 
