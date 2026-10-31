@@ -6,8 +6,8 @@
 #include <ESP32Servo.h>
 
 // ========== WIFI ==========
-const char* WIFI_SSID = "TU_WIFI";
-const char* WIFI_PASS = "TU_CONTRASENA";
+const char* WIFI_SSID = "Iphone";
+const char* WIFI_PASS = "applepi";
 
 // ========== PINES ==========
 #define PIN_HIGROMETRO 34
